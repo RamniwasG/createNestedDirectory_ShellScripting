@@ -1,0 +1,31 @@
+# there are two way that you can run this code.
+
+#method1
+ 1. download the repository and extract it
+ 
+ 2. go the folder using command,
+ 		cd create_nested_directory
+ 
+ 3. change the mode of file using chmod command or copy and paste it
+ 		chmod 0755 scriptToCreateDir.sh
+
+ 4. run your script using below commnand
+ 		./scriptToCreateDir.sh
+
+
+#method2
+ 1. clone the repository on your system
+ 
+ 2. go the folder using command,
+ 		cd create_nested_directory
+ 
+ 3. change the mode of file using chmod command or copy and paste it
+ 		chmod 0755 scriptToCreateDir.sh
+
+ 4. run your script using below commnand
+ 		./scriptToCreateDir.sh
+
+
+# thanks for using it
+
+#code written and tested by ,RamanG
